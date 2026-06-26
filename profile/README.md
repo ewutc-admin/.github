@@ -3,11 +3,7 @@
   <h1>EWUTC Administrative Account</h1>
 </div>
 
-> **⚠️ NOTICE:** This is the official administrative service account for the **[East West University Telecommunications Club (@ewutchq)](https://github.com/ewutchq)**. 
-
----
-
-## 🏢 About This Account
+## About This Account
 
 This is not a personal profile. This account serves as the root owner and service manager for the EWUTC GitHub Organization. 
 
@@ -16,28 +12,30 @@ We utilize this account strictly for operational purposes, including:
 * Handling administrative billing, secrets, and repository access.
 * Executing automated workflows, bots, and CI/CD pipeline deployments.
 
-## 🌐 Main Organization
+## Main Organization
 
-If you are looking for our open-source projects, event portfolios (such as Telco Warfare or the National Learning Fest), or community resources, please visit our official organization page:
+If you are looking for our open-source projects, event portfolios, or community resources, please visit our official organization page:
 
-### 👉 **[github.com/ewutchq](https://github.com/ewutchq)**
+### **[github.com/ewutchq](https://github.com/ewutchq)**
 
----
+## Maintainers
 
-## 👨‍💻 Maintainers
+To ensure institutional continuity and security, this account is securely maintained by the EWUTC Executive Committee. Access and operations are overseen by the current (18th) Web Developer, **[MD Asaduzzaman Atik](https://www.github.com/mrasadatik)**, alongside authorized technical staff.
 
-To ensure institutional continuity and security, this account is securely maintained by the EWUTC Executive Committee. Access and operations are overseen by the current Web Developer, MD Asaduzzaman Atik, alongside authorized technical staff.
-
-## 📬 Contact & Support
+## Contact & Support
 
 If you need to reach out regarding GitHub repository access, technical partnerships, or security concerns, please contact us through official channels:
 
-* **Email:** [contact@ewutc.org](mailto:contact@ewutc.org)
-* **Website:** [ewutc.org](https://ewutc.org)
+* **Email:** [contact@ewutc.com](mailto:contact@ewutc.com)
+* **Website:** [ewutc.com](https://ewutc.com)
 * **Main Org:** [@ewutchq](https://github.com/ewutchq)
-* **Office:** East West University, Plot 7/A, Aftabuddin Ahmed Rd, Dhaka 1212
+* **Office:** [East West University, A/2, Jahurul Islam Avenue, Jahurul Islam City, Aftabnagar, Dhaka-1212, Bangladesh.](https://maps.app.goo.gl/5sw5h5Wv924mG3VZ6)
 
 <br/>
+<p align="center">~•~</p>
+<br/>
+
 <p align="center">
-  <small>Founded 14 April 2006 • Dhaka, Bangladesh</small>
+  <strong>East West University Telecommunications Club</strong><br/>
+  Founded 14 April 2006 • Dhaka, Bangladesh
 </p>

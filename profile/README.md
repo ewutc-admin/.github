@@ -44,7 +44,7 @@ To ensure institutional continuity and long-term security, this account is maint
 <table border="1" cellspacing="0" cellpadding="10" width="100%">
 <tr>
 <td align="center" width="600">
-  <img src="https://github.com/ewutchq/public/blob/cf5077caece065723d0ec7caa166b9deb6cd79a8/assets/images/internal/committee/headshot/18th/asad-wd.jpeg" width="120" alt="MD Asaduzzaman Atik portrait"><br/>
+  <img src="https://github.com/ewutchq/public/blob/accd36ac9e53820692ae9dd51550b9431f8ccb21/assets/images/internal/committee/18th/reveal-poster/asad-webdev.jpg" width="120" alt="MD Asaduzzaman Atik portrait"><br/>
   <strong>MD Asaduzzaman Atik</strong><br/>
   <img alt="EWUTC - Web Developer (18th)" src="https://img.shields.io/badge/EWUTC%20-%20Web%20Developer%20(18th)-0f3b66?style=flat" /><br/>
   <font size="2">Primary Custodian · 18th Executive Committee</font><br/><br/>

@@ -49,7 +49,7 @@ To ensure institutional continuity and long-term security, this account is maint
   <img alt="EWUTC - Web Developer (18th)" src="https://img.shields.io/badge/EWUTC%20-%20Web%20Developer%20(18th)-0f3b66?style=flat" /><br/>
   <font size="2">Primary Custodian · 18th Executive Committee</font><br/><br/>
   <a href="https://www.ewutc.com/profile/executive/18th/web-developer/mr.asadatik.sensei/" aria-label="Website"><img src="https://github.com/user-attachments/assets/b622ae9f-c216-4745-bf76-ab94f1fc7c69" width="16" height="16" alt="website" /></a> &nbsp;
-  <a href="mailto:contact.webdev18th@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp;
+  <a href="mailto:contact.webdeveloper18th@ewutc.com" aria-label="Email"><img src="https://github.com/user-attachments/assets/d2d8f691-661b-4109-ad64-ce6aaa428452" width="16" height="16" alt="email" /></a> &nbsp;
   <a href="https://facebook.com/asadatik.sensei/" aria-label="Facebook"><img src="https://github.com/user-attachments/assets/688d9d32-d8c1-44a4-b5a2-3cae2bf29ae7" width="16" height="16" alt="facebook" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/mrasadatik/" aria-label="LinkedIn"><img src="https://github.com/user-attachments/assets/0df63e9c-8543-4ab4-89e4-01bbb806357e" width="16" height="16" alt="linkedin" /></a>
 </td>
